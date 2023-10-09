@@ -1,5 +1,5 @@
 # CNER-UAV
-CNER-UAV, which is a fine-grained Chinese name entity recognition dataset, is dedicated to the development of address resolution modules in drone delivery systems.
+CNER-UAV, which is a fine-grained Chinese name entity recognition dataset, is dedicated to the development of address resolution modules in UAV delivery systems.
 
 本数据集将按照“知识共享(Creative Commons)署名-非商业性使用 4.0 国际许可协议（CC BY-NC 4.0）”向您提供。您可通过访问网址 [https://creativecommons.org/licenses/by-nc/4.0/legalcode.zh-Hans](https://creativecommons.org/licenses/by-nc/4.0/legalcode.zh-Hans) 了解 CC BY-NC 4.0协议内容。当您从其他地方下载或使用这些数据集时，您同意遵守 CC BY-NC 4.0 条款的约定，如果第三方对外许可的条款与 CC BY-NC 4.0相冲突，本许可条款应优先适用。我们再次重申，该数据集仅用于非商业用途，例如学术研究、教学或科学出版等。我们并未允许您将数据集或其任何衍生作品用于商业目的，例如出售数据或将其用于商业利益。
 
